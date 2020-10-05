@@ -1,0 +1,32 @@
+
+img.image1 {
+    display: block;
+    background-color: lightblue;
+    padding: 15px;
+    border: 10px solid red;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 10px
+}
+
+
+img.image2 {
+    display: block;
+    background-color: lightblue;
+    padding: 9px;
+    border: 10px solid red;
+    margin-top: 0px;
+    margin-left: 158px;
+    margin-right: 10px
+}
+
+img.image3{
+    display: block;
+    background-color: lightblue;
+    padding: 15px;
+    border: 10px solid red;
+    margin-top: 0px;
+    margin-left: 316px;
+    margin-right: 0px;
+
+}
