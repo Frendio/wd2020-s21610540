@@ -1,0 +1,62 @@
+/* span {
+    /*display: inline-block; 
+    visibility: hidden;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* div {
+    display: inline; 
+    margin: 20px;
+    padding: 20px;
+    
+} 
+*/
+h1 {
+    margin-top: 55px;
+}
+
+div.nav-fixed {
+    width: 100px;
+    height: 50px;
+    background-color: crimson;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+
+div.container1 {
+    background-color: yellow;
+    position: relative;
+    width: 300px;
+    height: 300px;
+}
+
+div.container2 {
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    position: sticky;
+    top: 50px;
+    left: 0px;
+}
+
+div.box1 {
+    width: 100px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    right: 50px;
+}
+
+div.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+div.box3 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}

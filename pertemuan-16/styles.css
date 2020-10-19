@@ -1,0 +1,15 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+h1  {
+    font-family: "Give Your Glory", cursive;
+    font-size: 5.625em;
+    width: 0 auto;   
+}
+
+p {
+    font-family: "Nunito", sans-serif;
+}
